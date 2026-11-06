@@ -14,6 +14,13 @@ A simple interactive task tracker built using HTML, CSS, and JavaScript.
 - HTML
 - CSS
 - JavaScript
+  
+## Task Status
+Completed: Interactive To Do List
+
+This task demonstrates DOM manipulation,
+event listeners, and classList.toggle()
+using JavaScript.
 
 ## How to Run
 1. Clone the repository.
